@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 0.5em;
+  color: #444;
+  background-color: #fff;
+  div input {
+    width: 20em;
+  }
+  button {
+    align-self: center;
+  }
+}
